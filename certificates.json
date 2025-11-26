@@ -102,5 +102,21 @@
     "hours": "4 Training Hours",
     "issuedBy": "ZenTr1x Crew",
     "date": "2025-11-17"
+  },
+  {
+    "id": "ZTX-J20250014",
+    "name": "Rand Sabbah",
+    "course": "Fundamentals of Programming Using Java",
+    "hours": "4 Training Hours",
+    "issuedBy": "ZenTr1x Crew",
+    "date": "2025-11-17"
+  },
+  {
+    "id": "ZTX-J20250015",
+    "name": "Mariam Ghazal",
+    "course": "Fundamentals of Programming Using Java",
+    "hours": "4 Training Hours",
+    "issuedBy": "ZenTr1x Crew",
+    "date": "2025-11-17"
   }  
 ]
